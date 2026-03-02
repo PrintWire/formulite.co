@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://formulite.co/sitemap.xml
